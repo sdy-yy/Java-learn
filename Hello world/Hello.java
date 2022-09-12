@@ -5,4 +5,21 @@ public class Hello{
 	public static void main(String[] args) {
 		 System.out.println("hello world");
 	}
+
+
+
+
 } 
+
+
+	class Dog{
+		public static void main(String[] args) {
+		 System.out.println("hello 小狗");
+	}
+	}
+
+		class Tiger{
+			public static void main(String[] args) {
+		 System.out.println("hello 老虎");
+	}
+	}
